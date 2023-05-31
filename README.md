@@ -1,2 +1,2 @@
 My first readme
-good session bravo done
+Whatever the case
